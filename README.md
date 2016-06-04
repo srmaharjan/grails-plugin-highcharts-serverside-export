@@ -84,7 +84,6 @@ SamplesFactory contains three methods that generate equivalent of Highcharts dem
 * SamplesFactory.createPieChart : [Pie chart](http://highcharts.com/demo/pie-basic)
 * SamplesFactory.createTimeDataWithIrregularIntervals : [Time data with irregular intervals](http://highcharts.com/demo/spline-irregular-time)
 
-## Running the sample
 
 Copyright and License
 ---------------------
@@ -98,4 +97,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 NOTE
 ----
-The Highcharts files are subjected to the Highcharts License.
+The Highcharts files are subjected to the Highcharts License ([Highcharts](http://www.highcharts.com/)).
