@@ -85,21 +85,7 @@ SamplesFactory contains three methods that generate equivalent of Highcharts dem
 * SamplesFactory.createTimeDataWithIrregularIntervals : [Time data with irregular intervals](http://highcharts.com/demo/spline-irregular-time)
 
 ## Running the sample
-  
-* jars
-All the dependencies files are provided in ./lib/
 
-* Eclipse :
-  The framework is eclipse ready.
-   * open the project in eclipse,
-   * run SimpleExport
-   
-* other IDE
-   * open the project in your favorite IDE,
-   * declare all the ./lib jars as dependencies in your project,
-   * run SimpleExport
-   
-   
 Copyright and License
 ---------------------
 
@@ -108,3 +94,8 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+
+NOTE
+----
+The Highcharts files are subjected to the Highcharts License.
